@@ -1,4 +1,4 @@
-# Knowledge Engineering: The Course
+# Knowledge Engineering: The Base Course
 **Learning Objective:** Learn to satisfy the needs of today, but also an unknown future. Future-proof your data. Semantic Thinking.
 
 1. Explain the pain
