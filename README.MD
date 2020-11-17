@@ -8,3 +8,4 @@ To create a knowledge engineering course that fills the gap between data produce
 
 ## Contributors
 * Cogan Shimizu
+* Christophe Debruyne
